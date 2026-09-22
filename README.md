@@ -82,3 +82,8 @@ Use the dashboard to identify high-revenue regions, high-margin categories, low-
 
 ## Author
 Sajjad Moosa
+
+Data Analyst | Power BI | MySql | Looker Studio | Excel | Tableau | Python
+
+Available for freelance projects & custom dashboard/reporting solutions.
+sajjadmoosa9@gmail.com
